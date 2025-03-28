@@ -39,7 +39,7 @@ pip install numpy pandas scikit-learn matplotlib joblib
 
 Run the script using:
 ```bash
-python heart_attack_prediction.py
+python model.py
 ```
 
 ## Results
